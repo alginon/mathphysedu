@@ -1,2 +1,2 @@
 # mathphysedu
-developing interactive pages for intermediate mathematics and physics education
+developing interactive pages for coding, intermediate mathematics and physics education
